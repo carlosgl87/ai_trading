@@ -1,2 +1,2 @@
-# ai_trading
-My notebooks from the nanodregree program AI for Trading of Udacity
+# Nanodegree AI for Trading - Udacity
+My notebooks of the lessons and the projects of the Udacity Nanodegree AI for Trading
